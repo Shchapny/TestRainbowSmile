@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestRainbowSmile</string>
+    <string name="text_id_pos">id_pos: %1$s</string>
+    <string name="text_id_record">id_record: %1$s</string>
+    <string name="text_nom_route">nom_route: %1$s</string>
+    <string name="text_nom_zak">nom_zak: %1$s</string>
+    <string name="text_id_hd_route">id_hd_route: %1$s</string>
+    <string name="text_nom_nakl">nom_nakl: %1$s</string>
+    <string name="message_error">Ошибка подключения</string>
+    <string name="copy_up">Копировать вверх</string>
+    <string name="copy_down">Копировать вниз</string>
+</resources>
